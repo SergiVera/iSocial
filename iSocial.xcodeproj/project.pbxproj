@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1F037020E5781DD9C4BF2CDA /* Pods_iSocial.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 72FCDEA1543F75D38A828488 /* Pods_iSocial.framework */; };
+		294807CF224D66E4009B219D /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 294807CE224D66E4009B219D /* SignUpViewController.swift */; };
 		29C137972247F61500AAFCE5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C137962247F61500AAFCE5 /* AppDelegate.swift */; };
 		29C137992247F61500AAFCE5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C137982247F61500AAFCE5 /* ViewController.swift */; };
 		29C1379C2247F61500AAFCE5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29C1379A2247F61500AAFCE5 /* Main.storyboard */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		0F7255005435F8950DA16DCC /* Pods-iSocial.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iSocial.debug.xcconfig"; path = "Target Support Files/Pods-iSocial/Pods-iSocial.debug.xcconfig"; sourceTree = "<group>"; };
+		294807CE224D66E4009B219D /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
 		29C137932247F61500AAFCE5 /* iSocial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iSocial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		29C137962247F61500AAFCE5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		29C137982247F61500AAFCE5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 			children = (
 				29C137962247F61500AAFCE5 /* AppDelegate.swift */,
 				29C137982247F61500AAFCE5 /* ViewController.swift */,
+				294807CE224D66E4009B219D /* SignUpViewController.swift */,
 				29E0F33D2249223A00B76905 /* FeedViewController.swift */,
 				29C1379A2247F61500AAFCE5 /* Main.storyboard */,
 				29C1379D2247F61700AAFCE5 /* Assets.xcassets */,
@@ -225,6 +228,7 @@
 			files = (
 				29C137992247F61500AAFCE5 /* ViewController.swift in Sources */,
 				29E0F33E2249223A00B76905 /* FeedViewController.swift in Sources */,
+				294807CF224D66E4009B219D /* SignUpViewController.swift in Sources */,
 				29C137972247F61500AAFCE5 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
